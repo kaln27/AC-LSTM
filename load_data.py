@@ -1,3 +1,9 @@
+# -*- coding:utf-8 -*-
+# 作者：kaln
+# 创建：2022-4-28
+# 更新：2022-4-28
+# 版本：1.0
+
 import pandas as pd
 import numpy as np
 from sklearn.decomposition import PCA
